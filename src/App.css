@@ -1,0 +1,42 @@
+.app {
+  text-align: center;
+  margin: 10px;
+}
+
+.carousel{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.list{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.list .list-item{
+  display: flex;
+  margin: 15px 0px;
+  justify-content: space-between;
+  text-align: left;
+  width: 50%;
+}
+.image{
+  width: 50%;
+}
+.card{
+  width: 30%;
+  padding: 10px;
+  margin: 10px;
+}
+@media screen and (max-width: 600px) {
+  .card {
+    width: 100%;
+  }
+  .list .list-item{
+    width: 100%;
+  }
+  .image {
+    width: 100%;
+  }
+}

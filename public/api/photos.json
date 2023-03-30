@@ -1,0 +1,38 @@
+[
+    {
+      "id": "xc90-recharge",
+      "title": "XC90 Recharge", 
+      "image": "/images/xc90_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": "xc60-recharge",
+      "title": "XC60 Recharge", 
+      "image": "/images/xc60_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": "xc40-recharge",
+      "title": "XC40 Recharge", 
+      "image": "/images/xc40_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": "v90-recharge",
+      "title": "V90 Recharge", 
+      "image": "/images/v90_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": "v60-recharge",
+      "title": "V60 Recharge", 
+      "image": "/images/v60_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    },
+    {
+      "id": "xc40-recharge3",
+      "title": "XC40 Recharge", 
+      "image": "/images/xc40_recharge.jpg",
+      "content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry"
+    }
+]
