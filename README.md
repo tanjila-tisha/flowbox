@@ -10,7 +10,8 @@ Please use node v.16 or higher.
 - Custom hook has been implemented.
 - User can quickly change different layout by switching Tabs.
 - Few Unit test has been added.
-- Material UI library used for design. 
+- Material UI library used for design.
+- mobile-friendly layout
 
 
 # Getting Started with Create React App
