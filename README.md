@@ -1,3 +1,18 @@
+## Node version
+Please use node v.16 or higher. 
+
+## Points covered in the project
+
+- Implemented using React and Typescript, redux toolkits.
+- Tabs for displaying Different layout (Grid, Carousel/Slider, list view and Cards)
+- Fetch photos from API(Mock Json File) using fetch method.
+- Store data into Redux states.
+- Custom hook has been implemented.
+- User can quickly change different layout by switching Tabs.
+- Few Unit test has been added.
+- Material UI library used for design. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -39,8 +54,3 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
