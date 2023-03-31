@@ -10,8 +10,9 @@ Please use node v.16 or higher.
 - Custom hook has been implemented.
 - User can quickly change different layout by switching Tabs.
 - Few Unit test has been added.
-- Material UI library used for design.
-- Mobile-friendly layout
+- Material UI library used for design. 
+- Swiper library used for Carousel.
+- Supports mobile version.
 
 
 # Getting Started with Create React App

@@ -1,4 +1,4 @@
-import * as React from "react";
+import { useState, SyntheticEvent } from "react";
 import Tabs from "@mui/material/Tabs";
 import Tab from "@mui/material/Tab";
 import Box from "@mui/material/Box";
@@ -29,9 +29,9 @@ interface DisplayTabsProps {
   tabs: ContentTab[];
 }
 
-const DisplayTabs = ({ tabs }: DisplayTabsProps) => {
-  const [selectedTab, setSelectedTab] = React.useState(0);
-  const handleChange = (event: React.SyntheticEvent, newTabValue: number) => {
+const DisplayTabs = ({ tabs }: DisplayTabsProps): JSX.Element  => {
+  const [selectedTab, setSelectedTab] = useState(0);
+  const handleChange = (event: SyntheticEvent, newTabValue: number) => {
     setSelectedTab(newTabValue);
   };
 

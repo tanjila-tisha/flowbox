@@ -37,7 +37,6 @@ const PhotosReducer = createReducer(initialState, (builder) => {
 
 // Selectors
 export const getPhotos = (state: RootState): Photo[] => state.photos.photos;
-
 export const getLoading = (state: RootState): boolean => state.photos.loading;
 export const getError = (state: RootState): string => state.photos.error;
 

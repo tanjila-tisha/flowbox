@@ -22,7 +22,7 @@ const DisplayPanel = (): JSX.Element => {
           alignItems: "center",
         }}
       >
-        <CircularProgress data-testid="test-id-loading" />
+        <CircularProgress />
       </Box>
     );
   }
